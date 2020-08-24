@@ -4,9 +4,9 @@ using System.Text;
 
 namespace TrackerLibrary
 {
-    class MatchupEntryModel
+    public class MatchupEntryModel
     {
-        public TeamModel Team { get; set; }
+        public TeamModel TeamCompeting { get; set; }
         public double Score { get; set; }
         public MatchupModel ParentMatchup { get; set; }
     }
