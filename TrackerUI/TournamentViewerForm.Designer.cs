@@ -117,7 +117,7 @@
             // teamOneScoreLabel
             // 
             this.teamOneScoreLabel.AutoSize = true;
-            this.teamOneScoreLabel.Location = new System.Drawing.Point(433, 252);
+            this.teamOneScoreLabel.Location = new System.Drawing.Point(433, 255);
             this.teamOneScoreLabel.Name = "teamOneScoreLabel";
             this.teamOneScoreLabel.Size = new System.Drawing.Size(35, 13);
             this.teamOneScoreLabel.TabIndex = 7;
